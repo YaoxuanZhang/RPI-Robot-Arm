@@ -7,7 +7,6 @@ https://github.com/YaoxuanZhang/RPI-Robot-Arm/assets/18201848/8cd5e0dd-7378-4c76
 ## Features
 
 - Inverse Kinematics (IK) control
-- Predefined arm poses for easy animation
 - Adjustable joint limits to match the physical limitations of the arm
 - Realistic arm physics simulation
 
