@@ -26,6 +26,13 @@ To use the IK rig, follow these steps:
 
 In the future, we plan to develop code projects that allow for exporting Blender data to a micro-controller. This will enable you to control the RPI Robotics 6-Axis DoM Arm directly from your micro-controller, providing a seamless integration between the virtual arm in Blender and the physical arm.
 
+## Special Thanks
+
+I would like to extend a special thanks to the following individuals and organizations for their contributions:
+
+- Thomas Byrne: OBJ Assembly
+- [Annin Robotics](https://www.anninrobotics.com/): Robot Design and CAD
+
 ## File Structure
 
 The file structure of this repository is as follows:
