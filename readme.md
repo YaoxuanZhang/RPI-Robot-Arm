@@ -2,7 +2,7 @@
 
 This repository contains a Blender IK rig for the RPI Robotics 6-Axis Degree of Movement (DoM) Arm. The IK rig allows you to simulate and control the movements of the arm within the Blender software.
 
-![Demo Video](https://github.com/YaoxuanZhang/RPI-Robot-Arm/assets/18201848/8cd5e0dd-7378-4c76-9b4f-49f61d702f40)
+https://github.com/YaoxuanZhang/RPI-Robot-Arm/assets/18201848/8cd5e0dd-7378-4c76-9b4f-49f61d702f40
 
 ## Features
 
