@@ -1,6 +1,6 @@
 # RPI Robotics 6-Axis DoM Arm (Annin Robotics 4)
 
-This repository contains a Blender IK rig for the RPI Robotics 6-Axis Degree of Movement (DoM) Arm. The IK rig allows you to simulate and control the movements of the arm within the Blender software.
+This repository contains a Blender IK rig for the RPI Robotics 6-Axis Degree of Freedom (DoF) Arm. The IK rig allows for simulation and control of the arm within the Blender software.
 
 Animated Render Demonstration
 
@@ -29,11 +29,11 @@ To use the IK rig, follow these steps:
 
 ## Exporting Blender Data to a Micro-controller
 
-In the future, we plan to develop code projects that allow for exporting Blender data to a micro-controller. This will enable you to control the RPI Robotics 6-Axis DoM Arm directly from your micro-controller, providing a seamless integration between the virtual arm in Blender and the physical arm.
+In the future, we plan to develop code projects that allow for exporting Blender data to a micro-controller. This will enable control of the RPI Robotics 6-Axis DoM Arm directly from a micro-controller, providing a seamless integration between the virtual arm in Blender and the physical arm.
 
 ## Special Thanks
 
-I would like to extend a special thanks to the following individuals and organizations for their contributions:
+We would like to extend a special thanks to the following individuals and organizations for their contributions:
 
 - Thomas Byrne: OBJ Assembly
 - [Annin Robotics](https://www.anninrobotics.com/): Robot Design and CAD
@@ -47,11 +47,11 @@ The file structure of this repository is as follows:
 
 ## Dependencies
 
-This IK rig was created in Blender version 3.6.4, thus requiring that version or above for optimal compatibility. Make sure you have Blender installed on your machine before using this rig.
+This IK rig was created in Blender version 3.6.4, thus requiring that version or above for optimal compatibility. Make sure Blender is installed before using this rig.
 
 ## Contributing
 
-If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions are welcome!
+Feel free to open an issue or submit a pull request for any issues or suggestions. Contributions are welcome!
 
 ## License
 
